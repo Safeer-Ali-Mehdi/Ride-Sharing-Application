@@ -1,0 +1,16 @@
+{
+  "name": "api_gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "API_Gateway_Server.js",
+  "scripts": {
+    "start": "nodemon API_Gateway_Server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-gateway": "^3.4.5",
+    "nodemon": "^2.0.21"
+  }
+}
